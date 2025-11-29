@@ -13,7 +13,7 @@
 ## 🎯 **About Me**
 
 ```python
-class AroshaFernando:
+class arosharandew:
     def __init__(self):
         self.title = "AI & Data Science Undergraduate"
         self.location = "Colombo, Sri Lanka"
