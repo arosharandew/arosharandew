@@ -1,81 +1,81 @@
-<h1 align="center">Hey there! I'm Arosha Fernando 👋</h1>
-<h3 align="center">🧠 AI & Data Science Undergraduate | 🚀 Aspiring ML Engineer</h3>
-<h4 align="center">From Colombo, Sri Lanka • Building intelligent systems with a side of humor</h4>
+# 👋 Hi, I'm Arosha Fernando
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200">
-  <br>
-  <em>"Debugging by day, dreaming in tensors by night"</em>
-</div>
+**Artificial Intelligence & Data Science Undergraduate | Aspiring ML/AI Engineer**
+
+`Computer Vision` · `NLP` · `Reinforcement Learning` · `Model Optimization`
+
+Colombo, Sri Lanka
 
 ---
 
-## 🎯 **About Me**
+## 🚀 About Me
 
+I'm passionate about transforming data into intelligent solutions through machine learning and artificial intelligence. Currently exploring deep learning architectures and building end-to-end ML projects.
+
+## 🛠️ Tech Stack
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### **ML Frameworks & Libraries**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## 📊 GitHub Stats
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arosha+Fernando!;" />
+</h1>
+
+<div align="center">
+
+![Arosha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![AI Engineer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=AI+%26+Data+Science+Undergraduate;Aspiring+ML+Engineer;Computer+Vision+Enthusiast;NLP+Researcher)
+
+</div>
+
+## 🔬 Research Interests
+
+- **Computer Vision**: Image classification, object detection
+- **Natural Language Processing**: Transformers, sentiment analysis  
+- **Reinforcement Learning**: Q-learning, policy gradients
+- **Model Optimization**: Pruning, quantization
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arosha-fernando-b82145333)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialarosha3@gmail.com)
+
+---
+## 🚀 About Me
+
+<div align="center">
+
+### 💡 *"Turning complex problems into elegant AI solutions"*
+  
+</div>
 ```python
+# 🎯 ML Engineer in Training
 class AroshaFernando:
     def __init__(self):
-        self.title = "AI & Data Science Undergraduate"
-        self.location = "Colombo, Sri Lanka"
-        self.passions = [
-            "Computer Vision 👁️",
-            "Natural Language Processing 📝", 
-            "Model Optimization ⚡",
-            "Turning coffee into models ☕"
-        ]
-        self.current_focus = "Leveling up my ML Engineering skills"
-        self.fun_fact = "I make AI do my homework... just kidding! 😄"
-    
-    def say_hello(self):
-        return "Let's build something amazing together!"
-🛠️ Tech Stack & Superpowers
-Programming Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
-
-ML & AI Frameworks
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white
-
-Data Science Tools
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
-https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
-
-Currently Exploring
-🧠 Deep Learning Architectures
-
-⚡ MLOps & Model Deployment
-
-🔍 Computer Vision Projects
-
-💬 NLP & Language Models
-
-🎪 Featured Projects
-🧁 Sweet Piccolo - Bakery Management System
-Java 71.8% Python 28.2% Hibernate JavaFX OOP
-
-<img src="https://media.giphy.com/media/Lp5wuqZOAcQk3jYpky/giphy.gif" width="500" height="250">
-The Dynamic Duo:
-
-Sweet Piccolo POS (Python CLI): Manages cupcake sales, generates bills, exports tax files with checksums
-
-Tax Department System (JavaFX GUI): Validates tax files, flags invalid records, calculates profits/taxes
-
-🧠 MindScope - Brain Computer Interface
-Jupyter Notebook 99.6% Python 0.4% Machine Learning BCI
-
-<img src="https://media.giphy.com/media/l4HnKwiJJaJQB04Zq/giphy.gif" width="500" height="250">
-Exploring brain-computer interfaces with machine learning!
-
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arosharandew&show_icons=true&theme=radical"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arosharandew&layout=compact&theme=radical"> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arosharandew&theme=radical"> </div>
-🌐 Let's Connect
-<div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arosha-fernando-b82145333) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialarosha3@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arosharandew) </div>
-🤖 AI Joke of the Day
-Why do ML engineers prefer dark mode? Because light attracts bugs!
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=arosharandew&color=blueviolet&style=flat-square"> <br> <strong>Thanks for visiting! Remember: In a world full of zeros, be a one! ⚡</strong> <br> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="150"> </div> ```
+        self.title = "🤖 AI & Data Science Undergraduate"
+        self.focus = ["Computer Vision", "NLP", "RL", "Model Optimization"]
+        self.location = "📍 Colombo, Sri Lanka"
+        self.passion = "Turning data into intelligent solutions"
+        
+    def get_skills(self):
+        return {
+            'languages': ['Python', 'Java'],
+            'ml_frameworks': ['PyTorch', 'TensorFlow', 'Scikit-learn'],
+            'libraries': ['Pandas', 'NumPy', 'OpenCV'],
+            'tools': ['Git', 'Docker', 'Jupyter', 'VS Code']
+        }
+        
+me = AroshaFernando()
