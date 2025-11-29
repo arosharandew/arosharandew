@@ -1,3 +1,18 @@
+# 👋 Hi, I'm Arosha Fernando
+
+**🤖 Artificial Intelligence & Data Science Undergraduate | 🚀 Aspiring ML/AI Engineer**
+
+`Computer Vision` · `NLP` · `Reinforcement Learning` · `Model Optimization`
+
+📍 Colombo, Sri Lanka
+
+---
+
+## 🎯 About Me
+
+I'm passionate about transforming data into intelligent solutions through machine learning and artificial intelligence. Currently exploring deep learning architectures and building end-to-end ML projects.
+
+```python
 # 🚀 ML Engineer in Training
 class AroshaFernando:
     def __init__(self):
