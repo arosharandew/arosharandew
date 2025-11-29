@@ -13,7 +13,7 @@
 ## 🎯 **About Me**
 
 ```python
-class arosharandew:
+class AroshaFernando:
     def __init__(self):
         self.title = "AI & Data Science Undergraduate"
         self.location = "Colombo, Sri Lanka"
@@ -72,10 +72,10 @@ Jupyter Notebook 99.6% Python 0.4% Machine Learning BCI
 Exploring brain-computer interfaces with machine learning!
 
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aroshafernando&show_icons=true&theme=radical"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroshafernando&layout=compact&theme=radical"> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aroshafernando&theme=radical"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arosharandew&show_icons=true&theme=radical"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arosharandew&layout=compact&theme=radical"> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arosharandew&theme=radical"> </div>
 🌐 Let's Connect
-<div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arosha-fernando-b82145333) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialarosha3@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aroshafernando) </div>
+<div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arosha-fernando-b82145333) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialarosha3@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arosharandew) </div>
 🤖 AI Joke of the Day
 Why do ML engineers prefer dark mode? Because light attracts bugs!
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=aroshafernando&color=blueviolet&style=flat-square"> <br> <strong>Thanks for visiting! Remember: In a world full of zeros, be a one! ⚡</strong> <br> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="150"> </div> ```
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=arosharandew&color=blueviolet&style=flat-square"> <br> <strong>Thanks for visiting! Remember: In a world full of zeros, be a one! ⚡</strong> <br> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="150"> </div> ```
