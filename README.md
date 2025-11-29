@@ -3,10 +3,9 @@
 <h4 align="center">From Colombo, Sri Lanka • Building intelligent systems with a side of humor</h4>
 
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-  
-  <i>"Debugging by day, dreaming in tensors by night"</i>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200">
+  <br>
+  <em>"Debugging by day, dreaming in tensors by night"</em>
 </div>
 
 ---
@@ -31,79 +30,52 @@ class AroshaFernando:
         return "Let's build something amazing together!"
 🛠️ Tech Stack & Superpowers
 Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
+
 ML & AI Frameworks
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io-badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white
+
 Data Science Tools
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-🌱 Currently Exploring
-python
-Copy code
-current_learning = [
-    "🧠 Deep Learning Architectures",
-    "⚡ MLOps & Model Deployment", 
-    "🔍 Computer Vision Projects",
-    "💬 NLP & Language Models"
-]
-🎪 Featured Projects That Make Me Proud
-🧁 Sweet Piccolo – The Bakery Management Duo
-<img src="https://media.giphy.com/media/Lp5wuqZOAcQk3jYpky/giphy.gif" width="350" />
-Tech: Java • Python • Hibernate • JavaFX • OOP
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
 
-🍰 Sweet Piccolo POS (Python CLI)
-Manages cupcake sales, generates invoices, and exports tax files with validations.
+Currently Exploring
+🧠 Deep Learning Architectures
 
-💼 Tax Department System (JavaFX GUI)
-Validates tax files, detects suspicious transactions, and calculates profits.
+⚡ MLOps & Model Deployment
 
-java
-Copy code
-// When the tax system finds an invalid record:
-if (transaction.isSuspicious()) {
-    System.out.println("🚨 Sweet fraud detected!");
-}
-🧠 MindScope – Brain Computer Interface
-<img src="https://media.giphy.com/media/l4HnKwiJJaJQB04Zq/giphy.gif" width="350" />
-A BCI project that attempts to interpret EEG signals with ML.
+🔍 Computer Vision Projects
 
-python
-Copy code
-def read_mind():
-    brain_signals = capture_eeg_data()
-    predictions = model.predict(brain_signals)
-    return "You're thinking about pizza! 🍕"  # 99.6% accuracy
-<i>Disclaimer: May not actually read minds… yet!</i>
+💬 NLP & Language Models
 
-📊 GitHub Analytics & Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aroshafernando&show_icons=true&theme=radical&hide_border=true" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroshafernando&layout=compact&theme=radical&hide_border=true" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aroshafernando&theme=radical&hide_border=true" /> <br />
-<i>"One commit a day keeps the bugs away... or creates new ones!" 🐛</i>
+🎪 Featured Projects
+🧁 Sweet Piccolo - Bakery Management System
+Java 71.8% Python 28.2% Hibernate JavaFX OOP
 
-</div>
-🌐 Let's Connect & Collaborate
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://media.giphy.com/media/Lp5wuqZOAcQk3jYpky/giphy.gif" width="500" height="250">
+The Dynamic Duo:
 
-</div>
+Sweet Piccolo POS (Python CLI): Manages cupcake sales, generates bills, exports tax files with checksums
+
+Tax Department System (JavaFX GUI): Validates tax files, flags invalid records, calculates profits/taxes
+
+🧠 MindScope - Brain Computer Interface
+Jupyter Notebook 99.6% Python 0.4% Machine Learning BCI
+
+<img src="https://media.giphy.com/media/l4HnKwiJJaJQB04Zq/giphy.gif" width="500" height="250">
+Exploring brain-computer interfaces with machine learning!
+
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aroshafernando&show_icons=true&theme=radical"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroshafernando&layout=compact&theme=radical"> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aroshafernando&theme=radical"> </div>
+🌐 Let's Connect
+<div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arosha-fernando-b82145333) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialarosha3@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aroshafernando) </div>
 🤖 AI Joke of the Day
-python
-Copy code
-import random
+Why do ML engineers prefer dark mode? Because light attracts bugs!
 
-jokes = [
-    "Why do ML engineers prefer dark mode? Because light attracts bugs!",
-    "My model achieved 99% accuracy... at overfitting!",
-    "I told my dataset a joke... it didn't get it. Needed more training!",
-    "Why was the neuron so loud? It was always firing!"
-]
-
-print(f"🤖 Joke: {random.choice(jokes)}")
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=aroshafernando&color=blueviolet&style=flat-square" />
-<br /><br />
-
-<i>Thanks for visiting! Remember: In a world full of zeros, be a one! ⚡</i>
-
-<br /><br />
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" /> </div> ```
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=aroshafernando&color=blueviolet&style=flat-square"> <br> <strong>Thanks for visiting! Remember: In a world full of zeros, be a one! ⚡</strong> <br> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="150"> </div> ```
